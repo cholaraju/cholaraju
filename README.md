@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Cholaraju</h1>
 <p align="center">
-  <em>💻 DevOps & Cloud Engineer | 💡 Automation Enthusiast | 🌍 Open Source Advocate</em>
+  <em>💻 DevOps Engineer | 💡 Automation Enthusiast 🔥</em>
 </p>
 
 <p align="center">
