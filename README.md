@@ -55,3 +55,8 @@
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to">
   </a>
 </p>
+<p align="center">
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" height="80" alt="Microsoft Certified Expert Badge" />
+  <br>Azure DevOps Engineer Expert
+</p>
+
