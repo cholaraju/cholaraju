@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" />
 </p>
-### 🧠 Certifications
+###  🧠 Certifications
 
 - 🧩 **Certified Kubernetes Administrator (CKA)**
 - ☁️ **AWS Certified Solutions Architect – Associate**
