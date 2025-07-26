@@ -20,7 +20,7 @@
 ### 🚀 Technologies I Work With:
 
 <p align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" title="AWS" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" title="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" title="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" title="Kubernetes" />
@@ -36,7 +36,7 @@
 - 🔧 **Azure DevOps Engineer Expert**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cholaraju/cholaraju/main/assets/certifications/aws-certified-solutions-architect-associate.png" height="100" title="AWS SAA"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" height="80" alt="CKA Certified" />
   <img src="https://raw.githubusercontent.com/cholaraju/cholaraju/main/assets/certifications/azure-devops-engineer.png" height="100" title="Azure DevOps Engineer"/>
   <img src="https://raw.githubusercontent.com/cholaraju/cholaraju/main/assets/certifications/cka.png" height="100" title="CKA"/>
 </p>
