@@ -37,12 +37,12 @@
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" height="80" alt="CKA Certified" />
- !-- AWS Certified Solutions Architect – Associate -->
-  <img src="https://d1q6f0aelx0por.cloudfront.net/a59ef25c-9134-4ec4-b822-0f1ef3b8e3f8/aws-certified-solutions-architect-associate.png" height="100" alt="AWS Certified Solutions Architect – Associate" />
-  <br><strong>AWS Certified Solutions Architect – Associate</strong>
-  <br><br>
-    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" height="80" alt="Microsoft Certified Expert Badge" />
+ 
+<p align="center">
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" height="80" alt="Microsoft Certified Expert Badge" />
   <br>Azure DevOps Engineer Expert
+</p>
+
 </p>
 
 
