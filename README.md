@@ -1,16 +1,16 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<your-username>/<your-username>/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/cholaraju/cholaraju/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<your-username>/<your-username>/main/assets/person-laptop.svg" alt="Man at computer" width="300"/>
+  <img src="https://raw.githubusercontent.com/cholaraju/cholaraju/main/assets/person-laptop.svg" alt="Man at computer" width="300"/>
 </p>
 
----
+
 
 ### 🚀 Technologies I Work With:
 
