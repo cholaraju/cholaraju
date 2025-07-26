@@ -7,8 +7,9 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cholaraju/cholaraju/main/assets/person-laptop.svg" alt="Man at computer" width="300"/>
+  <img src="https://raw.githubusercontent.com/cholraju/cholaraju/main/assets/person-laptop.svg" width="300" alt="Person at computer"/>
 </p>
+
 
 
 
