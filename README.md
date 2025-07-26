@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cholraju/cholaraju/main/assets/Programming Illustration.svg" width="300" alt="Person at computer"/>
+  <img src="https://raw.githubusercontent.com/cholraju/cholaraju/main/assets/Programming illustration.svg" width="300" alt="Person at computer"/>
 </p>
 
 
