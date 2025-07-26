@@ -1,4 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Cholaraju</h1>
+<p align="center">
+  <em>💻 DevOps & Cloud Engineer | 💡 Automation Enthusiast | 🌍 Open Source Advocate</em>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cholaraju/cholaraju/output/snake.svg" alt="Snake animation" />
@@ -22,7 +25,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" />
 </p>
+### 🧠 Certifications
 
+- 🧩 **Certified Kubernetes Administrator (CKA)**
+- ☁️ **AWS Certified Solutions Architect – Associate**
+- 🔧 **Azure DevOps Engineer Expert**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cholaraju/cholaraju/main/assets/certifications/aws-certified-solutions-architect-associate.png" height="100" title="AWS SAA"/>
+  <img src="https://raw.githubusercontent.com/cholaraju/cholaraju/main/assets/certifications/azure-devops-engineer.png" height="100" title="Azure DevOps Engineer"/>
+  <img src="https://raw.githubusercontent.com/cholaraju/cholaraju/main/assets/certifications/cka.png" height="100" title="CKA"/>
+</p>
 
 
 ### 📫 Let's Connect
