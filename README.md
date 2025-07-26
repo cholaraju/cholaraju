@@ -37,7 +37,7 @@
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" height="80" alt="CKA Certified" />
-  <img src="https://raw.githubusercontent.com/cholaraju/cholaraju/main/assets/certifications/azure-devops-engineer.png" height="100" title="Azure DevOps Engineer"/>
+ <img src="https://d1q6f0aelx0por.cloudfront.net/a59ef25c-9134-4ec4-b822-0f1ef3b8e3f8/aws-certified-solutions-architect-associate.png" height="100" alt="AWS Solutions Architect – Associate" />
   <img src="https://raw.githubusercontent.com/cholaraju/cholaraju/main/assets/certifications/cka.png" height="100" title="CKA"/>
 </p>
 
